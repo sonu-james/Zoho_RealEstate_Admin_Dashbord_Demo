@@ -427,6 +427,28 @@ eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));
 
 /***/ }),
 
+/***/ "(ssr)/./node_modules/next/dist/api/link.js":
+/*!********************************************!*\
+  !*** ./node_modules/next/dist/api/link.js ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* reexport default from dynamic */ _client_link__WEBPACK_IMPORTED_MODULE_0___default.a)\n/* harmony export */ });\n/* harmony import */ var _client_link__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../client/link */ \"(ssr)/./node_modules/next/dist/client/link.js\");\n/* harmony import */ var _client_link__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_client_link__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};\n/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _client_link__WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== \"default\") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _client_link__WEBPACK_IMPORTED_MODULE_0__[__WEBPACK_IMPORT_KEY__]\n/* harmony reexport (unknown) */ __webpack_require__.d(__webpack_exports__, __WEBPACK_REEXPORT_OBJECT__);\n\n\n\n//# sourceMappingURL=link.js.map//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2FwaS9saW5rLmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7OztBQUF5QztBQUNWOztBQUUvQiIsInNvdXJjZXMiOlsid2VicGFjazovL3VhZS1hZG1pbi1kYXNoYm9hcmQtdHlwZXNjcmlwdC8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYXBpL2xpbmsuanM/OWQ1NSJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgeyBkZWZhdWx0IH0gZnJvbSAnLi4vY2xpZW50L2xpbmsnO1xuZXhwb3J0ICogZnJvbSAnLi4vY2xpZW50L2xpbmsnO1xuXG4vLyMgc291cmNlTWFwcGluZ1VSTD1saW5rLmpzLm1hcCJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/api/link.js\n");
+
+/***/ }),
+
+/***/ "(ssr)/./node_modules/next/dist/api/navigation.js":
+/*!**************************************************!*\
+  !*** ./node_modules/next/dist/api/navigation.js ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _client_components_navigation__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../client/components/navigation */ \"(ssr)/./node_modules/next/dist/client/components/navigation.js\");\n/* harmony import */ var _client_components_navigation__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_client_components_navigation__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};\n/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _client_components_navigation__WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== \"default\") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _client_components_navigation__WEBPACK_IMPORTED_MODULE_0__[__WEBPACK_IMPORT_KEY__]\n/* harmony reexport (unknown) */ __webpack_require__.d(__webpack_exports__, __WEBPACK_REEXPORT_OBJECT__);\n\n\n//# sourceMappingURL=navigation.js.map//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2FwaS9uYXZpZ2F0aW9uLmpzIiwibWFwcGluZ3MiOiI7Ozs7OztBQUFnRDs7QUFFaEQiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly91YWUtYWRtaW4tZGFzaGJvYXJkLXR5cGVzY3JpcHQvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2FwaS9uYXZpZ2F0aW9uLmpzPzIwMDgiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0ICogZnJvbSAnLi4vY2xpZW50L2NvbXBvbmVudHMvbmF2aWdhdGlvbic7XG5cbi8vIyBzb3VyY2VNYXBwaW5nVVJMPW5hdmlnYXRpb24uanMubWFwIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/api/navigation.js\n");
+
+/***/ }),
+
 /***/ "(ssr)/./node_modules/next/dist/client/add-base-path.js":
 /*!********************************************************!*\
   !*** ./node_modules/next/dist/client/add-base-path.js ***!
@@ -1930,6 +1952,17 @@ eval("\nmodule.exports = __webpack_require__(/*! ../../module.compiled */ \"(ssr
 
 /***/ }),
 
+/***/ "(ssr)/./node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js":
+/*!****************************************************************************************************!*\
+  !*** ./node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js ***!
+  \****************************************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("\nmodule.exports = __webpack_require__(/*! ../../module.compiled */ \"(ssr)/./node_modules/next/dist/server/route-modules/app-page/module.compiled.js?86da\").vendored[\"react-ssr\"].ReactJsxDevRuntime;\n\n//# sourceMappingURL=react-jsx-dev-runtime.js.map//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L3NlcnZlci9yb3V0ZS1tb2R1bGVzL2FwcC1wYWdlL3ZlbmRvcmVkL3Nzci9yZWFjdC1qc3gtZGV2LXJ1bnRpbWUuanMiLCJtYXBwaW5ncyI6IkFBQWE7QUFDYixrTUFBMEY7O0FBRTFGIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vdWFlLWFkbWluLWRhc2hib2FyZC10eXBlc2NyaXB0Ly4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9zZXJ2ZXIvcm91dGUtbW9kdWxlcy9hcHAtcGFnZS92ZW5kb3JlZC9zc3IvcmVhY3QtanN4LWRldi1ydW50aW1lLmpzPzVjZDkiXSwic291cmNlc0NvbnRlbnQiOlsiXCJ1c2Ugc3RyaWN0XCI7XG5tb2R1bGUuZXhwb3J0cyA9IHJlcXVpcmUoJy4uLy4uL21vZHVsZS5jb21waWxlZCcpLnZlbmRvcmVkWydyZWFjdC1zc3InXS5SZWFjdEpzeERldlJ1bnRpbWU7XG5cbi8vIyBzb3VyY2VNYXBwaW5nVVJMPXJlYWN0LWpzeC1kZXYtcnVudGltZS5qcy5tYXAiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js\n");
+
+/***/ }),
+
 /***/ "(ssr)/./node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-runtime.js":
 /*!************************************************************************************************!*\
   !*** ./node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-runtime.js ***!
@@ -2282,17 +2315,6 @@ eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));
 
 /***/ }),
 
-/***/ "(rsc)/./node_modules/next/dist/api/link.js":
-/*!********************************************!*\
-  !*** ./node_modules/next/dist/api/link.js ***!
-  \********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* reexport default from dynamic */ _client_link__WEBPACK_IMPORTED_MODULE_0___default.a)\n/* harmony export */ });\n/* harmony import */ var _client_link__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../client/link */ \"(rsc)/./node_modules/next/dist/client/link.js\");\n/* harmony import */ var _client_link__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_client_link__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};\n/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _client_link__WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== \"default\") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _client_link__WEBPACK_IMPORTED_MODULE_0__[__WEBPACK_IMPORT_KEY__]\n/* harmony reexport (unknown) */ __webpack_require__.d(__webpack_exports__, __WEBPACK_REEXPORT_OBJECT__);\n\n\n\n//# sourceMappingURL=link.js.map//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2FwaS9saW5rLmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7OztBQUF5QztBQUNWOztBQUUvQiIsInNvdXJjZXMiOlsid2VicGFjazovL3VhZS1hZG1pbi1kYXNoYm9hcmQtdHlwZXNjcmlwdC8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYXBpL2xpbmsuanM/NWJiZiJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgeyBkZWZhdWx0IH0gZnJvbSAnLi4vY2xpZW50L2xpbmsnO1xuZXhwb3J0ICogZnJvbSAnLi4vY2xpZW50L2xpbmsnO1xuXG4vLyMgc291cmNlTWFwcGluZ1VSTD1saW5rLmpzLm1hcCJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/next/dist/api/link.js\n");
-
-/***/ }),
-
 /***/ "(rsc)/./node_modules/next/dist/build/output/log.js":
 /*!****************************************************!*\
   !*** ./node_modules/next/dist/build/output/log.js ***!
@@ -2457,21 +2479,6 @@ module.exports = createProxy("C:\\Users\\hp\\Documents\\zoho-admin-dashboard\\no
 
 "use strict";
 eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));\n0 && (0);\nfunction _export(target, all) {\n    for(var name in all)Object.defineProperty(target, name, {\n        enumerable: true,\n        get: all[name]\n    });\n}\n_export(exports, {\n    StaticGenBailoutError: function() {\n        return StaticGenBailoutError;\n    },\n    isStaticGenBailoutError: function() {\n        return isStaticGenBailoutError;\n    }\n});\nconst NEXT_STATIC_GEN_BAILOUT = 'NEXT_STATIC_GEN_BAILOUT';\nclass StaticGenBailoutError extends Error {\n    constructor(...args){\n        super(...args);\n        this.code = NEXT_STATIC_GEN_BAILOUT;\n    }\n}\nfunction isStaticGenBailoutError(error) {\n    if (typeof error !== 'object' || error === null || !('code' in error)) {\n        return false;\n    }\n    return error.code === NEXT_STATIC_GEN_BAILOUT;\n}\nif ((typeof exports.default === 'function' || typeof exports.default === 'object' && exports.default !== null) && typeof exports.default.__esModule === 'undefined') {\n    Object.defineProperty(exports.default, '__esModule', {\n        value: true\n    });\n    Object.assign(exports.default, exports);\n    module.exports = exports.default;\n} //# sourceMappingURL=static-generation-bailout.js.map\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2NsaWVudC9jb21wb25lbnRzL3N0YXRpYy1nZW5lcmF0aW9uLWJhaWxvdXQuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7O0lBRWFBLHFCQUFxQjtlQUFyQkE7O0lBSUdDLHVCQUF1QjtlQUF2QkE7OztBQU5oQixNQUFNQywwQkFBMEI7QUFFekIsTUFBTUYsOEJBQThCRzs7O2FBQ3pCQyxJQUFBQSxHQUFPRjs7QUFDekI7QUFFTyxTQUFTRCx3QkFDZEksS0FBYztJQUVkLElBQUksT0FBT0EsVUFBVSxZQUFZQSxVQUFVLFFBQVEsQ0FBRSxXQUFVQSxLQUFBQSxDQUFJLEVBQUk7UUFDckUsT0FBTztJQUNUO0lBRUEsT0FBT0EsTUFBTUQsSUFBSSxLQUFLRjtBQUN4QiIsInNvdXJjZXMiOlsid2VicGFjazovL3VhZS1hZG1pbi1kYXNoYm9hcmQtdHlwZXNjcmlwdC8uLi8uLi8uLi9zcmMvY2xpZW50L2NvbXBvbmVudHMvc3RhdGljLWdlbmVyYXRpb24tYmFpbG91dC50cz80YzMxIl0sInNvdXJjZXNDb250ZW50IjpbImNvbnN0IE5FWFRfU1RBVElDX0dFTl9CQUlMT1VUID0gJ05FWFRfU1RBVElDX0dFTl9CQUlMT1VUJ1xuXG5leHBvcnQgY2xhc3MgU3RhdGljR2VuQmFpbG91dEVycm9yIGV4dGVuZHMgRXJyb3Ige1xuICBwdWJsaWMgcmVhZG9ubHkgY29kZSA9IE5FWFRfU1RBVElDX0dFTl9CQUlMT1VUXG59XG5cbmV4cG9ydCBmdW5jdGlvbiBpc1N0YXRpY0dlbkJhaWxvdXRFcnJvcihcbiAgZXJyb3I6IHVua25vd25cbik6IGVycm9yIGlzIFN0YXRpY0dlbkJhaWxvdXRFcnJvciB7XG4gIGlmICh0eXBlb2YgZXJyb3IgIT09ICdvYmplY3QnIHx8IGVycm9yID09PSBudWxsIHx8ICEoJ2NvZGUnIGluIGVycm9yKSkge1xuICAgIHJldHVybiBmYWxzZVxuICB9XG5cbiAgcmV0dXJuIGVycm9yLmNvZGUgPT09IE5FWFRfU1RBVElDX0dFTl9CQUlMT1VUXG59XG4iXSwibmFtZXMiOlsiU3RhdGljR2VuQmFpbG91dEVycm9yIiwiaXNTdGF0aWNHZW5CYWlsb3V0RXJyb3IiLCJORVhUX1NUQVRJQ19HRU5fQkFJTE9VVCIsIkVycm9yIiwiY29kZSIsImVycm9yIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/next/dist/client/components/static-generation-bailout.js\n");
-
-/***/ }),
-
-/***/ "(rsc)/./node_modules/next/dist/client/link.js":
-/*!***********************************************!*\
-  !*** ./node_modules/next/dist/client/link.js ***!
-  \***********************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-/* __next_internal_client_entry_do_not_use__  cjs */ 
-const { createProxy } = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
-module.exports = createProxy("C:\\Users\\hp\\Documents\\zoho-admin-dashboard\\node_modules\\next\\dist\\client\\link.js");
- //# sourceMappingURL=link.js.map
-
 
 /***/ }),
 
